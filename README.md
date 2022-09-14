@@ -58,7 +58,7 @@ Link : [https://github.com/heezzing/project4.git](https://github.com/heezzing/pr
 - 텐서보드를 이용해 데이터 결과를 시각화해 보았습니다.
 - 차종별로 mAP값이 다릅니다.
 <img width="600" alt="스크린샷 2022-09-14 오후 4 53 21" src="https://user-images.githubusercontent.com/97447841/190094786-8ed51d86-c20e-4df3-94ea-562fb04a44f9.png">
-     - Car의 경우 데이터의 양이 충분하지만 나머지 차종의 경우 데이터가 작은걸 볼 수 있습니다.
+       - Car의 경우 데이터의 양이 충분하지만 나머지 차종의 경우 데이터가 작은걸 볼 수 있습니다.
   
 - 데이터의 양이 가장 많은 Car의 mAP가 가장 높지 않은걸 보니 데이터의 양이 정확도에 영향을 미치는건 아닌걸 알 수 있습니다.
 - 모델 전체적인 mAP가 0.48이므로 성능이 좋은편 같습니다.

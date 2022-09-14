@@ -65,7 +65,7 @@ Link : [https://github.com/heezzing/project4.git](https://github.com/heezzing/pr
 <img width="700" alt="스크린샷 2022-09-14 오후 4 53 55" src="https://user-images.githubusercontent.com/97447841/190094930-e920a9be-9d1a-46f2-828d-073344cf06f4.png">
 
 ### 마무리
-<img width="798" alt="스크린샷 2022-09-14 오후 4 54 39" src="https://user-images.githubusercontent.com/97447841/190095087-c2375937-948f-48cc-b442-62c191e49815.png">
+<img width="700" alt="스크린샷 2022-09-14 오후 4 54 39" src="https://user-images.githubusercontent.com/97447841/190095087-c2375937-948f-48cc-b442-62c191e49815.png">
 
 - 아쉬운점
     - 데이터가 작아 학습하는데 한계가 있었습니다.
